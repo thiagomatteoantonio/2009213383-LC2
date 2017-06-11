@@ -1,0 +1,81 @@
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.dll.config
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Persistence\obj\Debug\2013207726-PER.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.dll.config
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\obj\Debug\2013207726-PER.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.Migrations.InitialModel.resources
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Persistence\obj\Debug\2013207726-PER.csproj.GenerateResource.Cache
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.dll.config
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Persistence\obj\Debug\2013207726-PER.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\obj\Debug\2013207726-PER.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.dll.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.Migrations.InitialModel.resources
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Persistence\obj\Debug\2013207726-PER.csproj.GenerateResource.Cache
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.dll.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\obj\Debug\2013207726-PER.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.Migrations.InitialModel.resources
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\obj\Debug\2013207726-PER.csproj.GenerateResource.Cache
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.pdb
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.dll.config
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.dll
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Persistence.pdb
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.dll
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Entities.dll
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\PaquetesTuristicos.Entities.pdb
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.xml
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\obj\Debug\2013207726-PER.csprojResolveAssemblyReference.cache
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.Migrations.InitialModel.resources
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\obj\Debug\2013207726-PER.csproj.GenerateResource.Cache
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\obj\Debug\2013207726-PER.csproj.CoreCompileInputs.cache
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.dll
+D:\PaqueteTuristico\PaquetesTuristicos.Persistence\obj\Debug\PaquetesTuristicos.Persistence.pdb

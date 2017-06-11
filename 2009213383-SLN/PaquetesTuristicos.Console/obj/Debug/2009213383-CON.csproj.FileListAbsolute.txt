@@ -1,0 +1,3 @@
+C:\Users\Edison\Desktop\2009213383-SLN\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe.config
+C:\Users\Edison\Desktop\2009213383-SLN\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.exe
+C:\Users\Edison\Desktop\2009213383-SLN\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.pdb

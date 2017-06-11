@@ -1,0 +1,74 @@
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe.config
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.pdb
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\EntityFramework.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.dll.config
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\EntityFramework.xml
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\obj\Debug\2013207726-CON.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.exe
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe.config
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\EntityFramework.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.dll.config
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\bin\Debug\EntityFramework.xml
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\obj\Debug\2013207726-CON.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.exe
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe.config
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.exe
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\bin\Debug\EntityFramework.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.dll.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\bin\Debug\EntityFramework.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\obj\Debug\2013207726-CON.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.exe
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\EntityFramework.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.dll.config
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\EntityFramework.xml
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\obj\Debug\2013207726-CON.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.exe
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.pdb
+D:\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe.config
+D:\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe
+D:\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.pdb
+D:\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Entities.dll
+D:\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.dll
+D:\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\EntityFramework.dll
+D:\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Entities.pdb
+D:\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.pdb
+D:\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.dll.config
+D:\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\EntityFramework.xml
+D:\PaqueteTuristico\PaquetesTuristicos.Console\obj\Debug\2013207726-CON.csprojResolveAssemblyReference.cache
+D:\PaqueteTuristico\PaquetesTuristicos.Console\obj\Debug\2013207726-CON.csproj.CoreCompileInputs.cache
+D:\PaqueteTuristico\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.exe
+D:\PaqueteTuristico\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.pdb
+C:\Users\Edison\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe.config
+C:\Users\Edison\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.exe
+C:\Users\Edison\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.pdb

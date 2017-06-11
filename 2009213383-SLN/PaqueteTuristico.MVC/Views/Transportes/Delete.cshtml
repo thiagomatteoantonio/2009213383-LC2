@@ -1,0 +1,73 @@
+﻿@model PaquetesTuristicos.Entities.Transporte
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Transporte</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Hora)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hora)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Direccion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DescripcionTransporte)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DescripcionTransporte)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoTransporte)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoTransporte)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoriaTransporte)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CategoriaTransporte)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

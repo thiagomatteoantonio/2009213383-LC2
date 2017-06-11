@@ -1,0 +1,30 @@
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Entities\obj\Debug\2013207726-ENT.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726-LC2\PaquetesTuristicos\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Entities\obj\Debug\2013207726-ENT.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\PaquetesTuristicos-Respaldo\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Entities\obj\Debug\2013207726-ENT.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Entities\obj\Debug\2013207726-ENT.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Desktop\2013207726-LC2\PaqueteTuristico\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.pdb
+D:\PaqueteTuristico\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.dll
+D:\PaqueteTuristico\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.pdb
+D:\PaqueteTuristico\PaquetesTuristicos.Entities\obj\Debug\2013207726-ENT.csprojResolveAssemblyReference.cache
+D:\PaqueteTuristico\PaquetesTuristicos.Entities\obj\Debug\2013207726-ENT.csproj.CoreCompileInputs.cache
+D:\PaqueteTuristico\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.dll
+D:\PaqueteTuristico\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.pdb
